@@ -12,6 +12,6 @@ Here we give "-lpthread" flag for including the pthread.h library while compilin
 # Note:
 
 1. For runnig the above C code, pthread.h library required.(gcc is recommended)
-2. Borland compiler does not supports the pthread. library.
+2. Borland compiler does not supports the pthread.h library.
 
 
