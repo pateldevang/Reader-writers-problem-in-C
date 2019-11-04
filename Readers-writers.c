@@ -40,7 +40,7 @@ int main()
 {
     // Initialize the pthread_t objects from the pthread.h library
     pthread_t tid1,tid2;
-    // initialize the mutex for the the avove declared
+    // initialize the mutex for the the above declared
     sem_init(&mutex,0,1);
     sem_init(&wrt,0,1);
     //Create pthread for writers
